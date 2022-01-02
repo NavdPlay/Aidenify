@@ -233,6 +233,10 @@ html * {
     left: 50%;
     transform: translateX(-50%);
   }
+  .input-container > textarea,
+  .result-container > textarea {
+    height: 170px;
+  }
   .result-container {
     top: 515px;
   }
