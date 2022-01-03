@@ -187,6 +187,11 @@ html * {
   border-radius: 4px;
   width: 85%;
   font-weight: 500;
+  cursor: default;
+}
+
+u {
+  cursor: pointer;
 }
 
 .footer-container {
