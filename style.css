@@ -256,3 +256,19 @@ u {
     padding: 8px;
   }
 }
+
+.dark-bg {
+  background-color: #0B0C10;
+}
+
+.dark-input {
+  background-color: #151618;
+}
+
+.dark-color {
+  color: #7f7f7f;
+}
+
+.dark-input-color {
+  color: #494949;
+}
