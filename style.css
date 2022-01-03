@@ -24,6 +24,7 @@
 html * {
   padding: 0;
   margin: 0;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .container {
@@ -51,6 +52,22 @@ html * {
   left: 20px;
   font-size: 32px;
   transform: translateY(-50%);
+}
+
+.switch-container {
+  position: absolute;
+  right: 0;
+  height: 100%;
+  width: 15%;
+}
+
+.switch {
+  position: absolute;
+  left: 60%;
+  top: 50%;
+  transform: translate(0, -50%);
+  font-size: 32px;
+  cursor: pointer;
 }
 
 .banner-container {
@@ -170,6 +187,7 @@ html * {
   padding: 15px;
   resize: none;
   font-family: 'Open Sans', sans-serif;
+  outline: none;
 }
 
 .link {
@@ -238,8 +256,8 @@ u {
     left: 50%;
     transform: translateX(-50%);
   }
-  .input-container > textarea,
-  .result-container > textarea {
+  #input,
+  #result {
     height: 170px;
   }
   .result-container {
@@ -265,10 +283,22 @@ u {
   background-color: #151618;
 }
 
+.dark-textarea {
+  background-color: #090909;
+}
+
 .dark-color {
   color: #7f7f7f;
 }
 
-.dark-input-color {
+.dark-textarea-color {
   color: #494949;
+}
+
+.dark-green-bg {
+  background-color: #125843;
+}
+
+.dark-green {
+  color: #125843;
 }
