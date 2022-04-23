@@ -1,11 +1,9 @@
 # Aidenify
 
-Proyek ini adalah proyek gabut saya lagi, yang terinspirasi dari sebuah video tiktok yang dimana video tersebut menjelaskan tentang bahasa rahasia Aiden Isfir dan cara menggunakannya. Setelah menonton video tersebut saya terinspirasi untuk membuat website penerjemah bahasa Aiden Isfir tersebut, dan jadilah project Aidenify ini.
-
-Untuk video tiktoknya, saya truh linknya <a href="https://vt.tiktok.com/ZSeHCbSk5/">disini</a>
+This project is another "bored project", inspired by a tiktok video in which the video explains about Aiden Isfir's secret language and how to use it. After watching the video, I was inspired to create the Aiden Isfir language translator website, and this Aidenify project became.
 #
  
-Teknologi dan alat yang digunakan: 
+Technologies and tools used: 
  
 Visual Studio Code 
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,9 +22,9 @@ Library jQuery
 
 #
 
-Library lainnya:
+Libraries:
 - Fontawesome
 
 #
 
-Link demo: https://navdplay.github.io/Aidenify/
+<a href="https://navdplay.github.io/Aidenify/">Demo</a>
